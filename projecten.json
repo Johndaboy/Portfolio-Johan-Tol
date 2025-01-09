@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "titel": "Template",
-        "beschrijving": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa minus temporibus fuga voluptates a iste, odit placeat beatae nesciunt repellendus facere, ea tempore nobis laudantium optio vero deserunt fugiat veritatis!",
-        "imgSrc": "img/johanpf.jpg",
-        "url": "https://www.linkedin.com/in/johan-tol-0b2b2531b/"
+        "titel": "Webshop",
+        "beschrijving": "Een webshop waarin je als admin accounts als seller kan benoemen zodat ze producten kunnen toevoegen en spullen kunnen kopen.",
+        "imgSrc": "",
+        "url": "https://github.com/Johndaboy/webshop"
     },
     {
         "id": 2,
-        "titel": "Second Project",
-        "beschrijving": "This is a description for the second project. It showcases advanced techniques and a polished design.",
-        "imgSrc": "img/project2.jpg",
-        "url": "https://www.linkedin.com/in/johan-tol-0b2b2531b/"
+        "titel": "Power Snakes",
+        "beschrijving": "a game about snakes with a trail that if you hit you die. each player has power ups you can choose from.",
+        "imgSrc": "",
+        "url": ""
     }
 ]
