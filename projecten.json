@@ -8,6 +8,13 @@
     },
     {
         "id": 2,
+        "titel": "Game of Life",
+        "beschrijving": "Conway's Game of Life is a grid-based simulation where cells live or die based on simple rules. Each cell's state (alive or dead) in the next generation depends on its neighbors: live cells survive with 2-3 neighbors, die with fewer (underpopulation) or more (overpopulation), and dead cells come to life with exactly 3 neighbors. These rules create complex, evolving patterns over time.",
+        "imgSrc": "",
+        "url": "https://github.com/MatsvanSplunter/kerremus-deepdive"
+    },
+    {
+        "id": 3,
         "titel": "Power Snakes",
         "beschrijving": "a game about snakes with a trail that if you hit you die. each player has power ups you can choose from.",
         "imgSrc": "img/PowerSnakes.png",
