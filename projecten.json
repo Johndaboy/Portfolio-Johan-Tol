@@ -10,7 +10,7 @@
         "id": 2,
         "titel": "Power Snakes",
         "beschrijving": "a game about snakes with a trail that if you hit you die. each player has power ups you can choose from.",
-        "imgSrc": "",
+        "imgSrc": "img/PowerSnakes.png",
         "url": ""
     }
 ]
