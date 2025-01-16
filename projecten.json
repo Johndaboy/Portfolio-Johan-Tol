@@ -19,5 +19,12 @@
         "beschrijving": "a game about snakes with a trail that if you hit you die. each player has power ups you can choose from.",
         "imgSrc": "img/PowerSnakes.png",
         "url": ""
+    },
+    {
+        "id": 4,
+        "titel": "Chatgpt-prompt-book",
+        "beschrijving": "this is a promptbook for chatgpt. you can make prompts and use made prompts.",
+        "imgSrc": "chatai.png",
+        "url": "https://github.com/Allexwnl/Chatgpt-prompt-book"
     }
 ]
