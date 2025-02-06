@@ -3,14 +3,14 @@
         "id": 1,
         "titel": "Webshop",
         "beschrijving": "Een webshop waarin je als admin accounts als seller kan benoemen zodat ze producten kunnen toevoegen en spullen kunnen kopen.",
-        "imgSrc": "",
+        "imgSrc": "img/",
         "url": "https://github.com/Johndaboy/webshop"
     },
     {
         "id": 2,
         "titel": "Game of Life",
         "beschrijving": "Conway's Game of Life is a grid-based simulation where cells live or die based on simple rules. Each cell's state (alive or dead) in the next generation depends on its neighbors: live cells survive with 2-3 neighbors, die with fewer (underpopulation) or more (overpopulation), and dead cells come to life with exactly 3 neighbors. These rules create complex, evolving patterns over time.",
-        "imgSrc": "",
+        "imgSrc": "img/GameOfLife.png",
         "url": "https://github.com/MatsvanSplunter/kerremus-deepdive"
     },
     {
@@ -24,7 +24,7 @@
         "id": 4,
         "titel": "Chatgpt-prompt-book",
         "beschrijving": "this is a promptbook for chatgpt. you can make prompts and use made prompts.",
-        "imgSrc": "chatai.png",
+        "imgSrc": "img/chatai.png",
         "url": "https://github.com/Allexwnl/Chatgpt-prompt-book"
     }
 ]
