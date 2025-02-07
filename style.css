@@ -361,6 +361,13 @@ img[alt="pf"] {
     .project-card {
         min-width: 300px;
     }
+    #overmij {
+        width: 80%;
+    }
+    #overmij p {
+        font-size: small;
+        width: 100%;
+    }
 }
 
  .carousel-container ::-webkit-scrollbar {
